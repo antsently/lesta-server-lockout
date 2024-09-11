@@ -10,3 +10,7 @@
 ## Использование
 1. Запустить скрипт.
 2. Проделать действия, предложенные скриптом.
+
+## Правила
+
+![img](https://github.com/antsently/lesta-server-lockout/blob/main/img/img.png)
