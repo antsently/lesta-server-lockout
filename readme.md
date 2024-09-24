@@ -5,7 +5,8 @@
 ![logo](https://github.com/antsently/lesta-server-lockout/blob/main/img/logo.png)
 
 # Зависимости
-- Требуется `Python 3.хх`
+
+- Требуется [`Python 3.хх`](https://www.python.org/downloads/) 
 
 # Использование
 1. Запустить скрипт.
